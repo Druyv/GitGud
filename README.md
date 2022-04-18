@@ -1,2 +1,2 @@
 # GitGud
-Basic Git workshop for students first learning how to use Git
+Git workshop(s) for students first learning how to use Git
